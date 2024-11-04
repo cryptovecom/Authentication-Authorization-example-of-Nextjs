@@ -2,6 +2,7 @@
 
 ChefConnect is a recipe-sharing platform built entirely with Next.js and Tailwind CSS. It enables users to discover, save, and share recipes effortlessly while providing authentication and authorization features for a full-stack app.
 
+
 ## Table of Contents
 
 - [Features](#features)
